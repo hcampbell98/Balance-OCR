@@ -1,0 +1,16 @@
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\x86\liblept1753.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\x86\libtesseract3052.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\x64\liblept1753.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\x64\libtesseract3052.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\tessdata\eng.traineddata
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\tessOCR.exe.config
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\tessOCR.exe
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\tessOCR.pdb
+E:\Desktop\C# Projects\tessOCR\tessOCR\obj\Debug\tessOCR.exe
+E:\Desktop\C# Projects\tessOCR\tessOCR\obj\Debug\tessOCR.pdb
+E:\Desktop\C# Projects\tessOCR\tessOCR\obj\Debug\tessOCR.csprojAssemblyReference.cache
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\tessdata\Bebas.traineddata
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\Tesseract.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\obj\Debug\tessOCR.csproj.CopyComplete
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\Newtonsoft.Json.dll
+E:\Desktop\C# Projects\tessOCR\tessOCR\bin\Debug\Newtonsoft.Json.xml

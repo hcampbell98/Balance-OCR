@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tessOCR", "tessOCR\tessOCR.csproj", "{F51063A4-1B22-42F2-A6FE-41F8B0BB503F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51063A4-1B22-42F2-A6FE-41F8B0BB503F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51063A4-1B22-42F2-A6FE-41F8B0BB503F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51063A4-1B22-42F2-A6FE-41F8B0BB503F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51063A4-1B22-42F2-A6FE-41F8B0BB503F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C89E2A-883B-4133-A1BD-8E6F922A71C5}
+	EndGlobalSection
+EndGlobal
