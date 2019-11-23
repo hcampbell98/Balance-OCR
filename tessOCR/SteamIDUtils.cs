@@ -11,7 +11,7 @@ namespace tessOCR
 {
     class SteamIDUtils
     {
-        static string apiURL = "https://api.steamid.uk/convert.php?api=V83M2JRT6VK54JS44RH7";
+        static string apiURL = "https://api.steamid.uk/convert.php?api="; //Add your own API key from steamid.uk/steamidapi/
 
         private static string[] GetSteamIDs(string input)
         {
